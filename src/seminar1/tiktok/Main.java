@@ -1,4 +1,4 @@
-import javax.swing.*;
+package seminar1.tiktok;
 
 public class Main {
     public static void main(String[] args) {
@@ -8,6 +8,5 @@ public class Main {
          * Отрисовка окна
          */
         new GameWindow();
-        System.out.println("KPECTUKU HO/\\UKU");
     }
 }
